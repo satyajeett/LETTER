@@ -2,8 +2,8 @@
 
 .envelope {
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 800px;
+    height: 600px;
     margin: 50px auto;
     cursor: pointer;
     perspective: 1000px;
